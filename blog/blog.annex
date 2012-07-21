@@ -1,3 +1,4 @@
 {
-	"handler": "jekyll"
+	"handler": "jekyll",
+	"layout": "default"
 }
