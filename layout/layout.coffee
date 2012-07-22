@@ -4,4 +4,4 @@ html ->
 		meta charset: "UTF-8"
 		title "Example Cork site"
 	body ->
-		div -> @content
+		div -> content
