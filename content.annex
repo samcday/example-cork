@@ -1,4 +1,3 @@
 {
-	"handler": "markdown",
-	"layout": "default"
+	"handler": "markdown"
 }
